@@ -40,4 +40,4 @@ In this notebook, we're going through an example machine learning project with g
 
 First, we'll import the dataset and start exploring. Since we know the evaluation metric we're trying to minimise, our first goal will be building a baseline model and seeing how it stacks up against the competition.
 
-### Importing the data and preparing it for modelling
+
