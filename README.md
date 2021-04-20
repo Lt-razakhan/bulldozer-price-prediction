@@ -1,4 +1,4 @@
-# 🚜🚜Prediction the Sale Price of Bulldozers using machine learning🚜🚜
+# 🚜Prediction the Sale Price of Bulldozers using machine learning🚜
 
 
 In this notebook, we're going through an example machine learning project with goal of predicting the sale price of bulldozers.
