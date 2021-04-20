@@ -34,7 +34,7 @@ In this notebook, we're going through an example machine learning project with g
 
 > One of the most common ways to do this, is to create a **data dictionary**.
 
-> For this dataset, Kaggle provide a data dictionary which contains information about what each attribute of the dataset means. You can [download this file directly from the Kaggle competition page](https://www.kaggle.com/c/bluebook-for-bulldozers/download/Bnl6RAHA0enbg0UfAvGA%2Fversions%2FwBG4f35Q8mAbfkzwCeZn%2Ffiles%2FData%20Dictionary.xlsx) (account required) or view it on [Google Sheets](https://docs.google.com/spreadsheets/d/1frLAkiTS-kAOcfF8JgKNp8o8KWTh6xHKGrVxC1FAi1g/edit#gid=546668819).
+> For this dataset, Kaggle provide a data dictionary which contains information about what each attribute of the dataset means. You can [download this file directly from the Kaggle competition page](https://www.kaggle.com/c/bluebook-for-bulldozers/download/Bnl6RAHA0enbg0UfAvGA%2Fversions%2FwBG4f35Q8mAbfkzwCeZn%2Ffiles%2FData%20Dictionary.xlsx) (account required) or view it on [Google Sheets](https://docs.google.com/spreadsheets/d/1frLAkiTS-kAOcfF8JgKNp8o8KWTh6xHKGrVxC1FAi1g/edit?usp=sharing).
 
 > With all of this being known, let's get started! 
 
