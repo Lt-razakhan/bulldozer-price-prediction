@@ -1,7 +1,7 @@
 # 🚜Prediction the Sale Price of Bulldozers using machine learning🚜
 
 
-In this notebook, we're going through an example machine learning project with goal of predicting the sale price of bulldozers.
+In this notebook, we're going through an machine learning project with goal of predicting the sale price of bulldozers.
 
 >The goal of the contest is to predict the sale price of a particular piece of heavy equiment at auction based on it's usage, equipment type, and configuaration.  The data is sourced from auction result postings and includes information on usage and equipment configurations.
 
