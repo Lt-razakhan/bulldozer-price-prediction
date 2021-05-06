@@ -43,4 +43,4 @@ First, we'll import the dataset and start exploring. Since we know the evaluatio
 ## 5. Finla Submission
 > [Final Prediction](https://github.com/thisiskhan/bulldozer-price-prediction/blob/main/test_predictions.csv)
 
-Made with ❤️ by [Raza Khan](htttps://razakhan.netlify.app)
+Made with ❤️ by [Raza Khan](https://razakhan.netlify.app)
