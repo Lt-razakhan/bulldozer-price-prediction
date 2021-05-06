@@ -40,7 +40,7 @@ In this notebook, we're going through an machine learning project with goal of p
 
 First, we'll import the dataset and start exploring. Since we know the evaluation metric we're trying to minimise, our first goal will be building a baseline model and seeing how it stacks up against the competition.
 
-## 5. Finla Submission
+## 5. Final Submission😏
 > [Final Prediction](https://github.com/thisiskhan/bulldozer-price-prediction/blob/main/test_predictions.csv)
 
 Made with ❤️ by [Raza Khan](https://razakhan.netlify.app)
